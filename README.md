@@ -1,5 +1,7 @@
 # opa-lambda-extension-plugin
 
+[![ci](https://github.com/godaddy/opa-lambda-extension-plugin/actions/workflows/ci.yml/badge.svg?branch=main&event=push)](https://github.com/godaddy/opa-lambda-extension-plugin/actions/workflows/ci.yml?query=branch%3Amain+event%3Apush)
+
 A custom plugin for running [Open Policy Agent (OPA)](https://github.com/open-policy-agent/opa) in [AWS Lambda](https://aws.amazon.com/lambda/) as a [Lambda Extension](https://docs.aws.amazon.com/lambda/latest/dg/using-extensions.html).
 
 To learn more about how Lambda Extensions work, check out [these AWS docs](https://docs.aws.amazon.com/lambda/latest/dg/runtimes-extensions-api.html), which provide a helpful graphic depicting the Lambda lifecycle.
